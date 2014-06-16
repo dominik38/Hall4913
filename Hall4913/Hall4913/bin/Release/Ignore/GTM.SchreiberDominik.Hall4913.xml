@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.SchreiberDominik.Hall4913</name>
+    </assembly>
+    <members>
+        <member name="M:Gadgeteer.Modules.SchreiberDominik.Hall4913.#ctor(System.Int32)">
+            <summary></summary>
+            <param name="socketNumber">The mainboard socket that has the module plugged into it.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.SchreiberDominik.Hall4913.TurnLEDOn">
+            <summary>
+            Turns on the module's LED.
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.SchreiberDominik.Hall4913.TurnLEDOff">
+            <summary>
+            Turns off the module's LED.
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.SchreiberDominik.Hall4913.ToggleLED">
+            <summary>
+            Toggles the module's LED. If the LED is currently on, it is turned off. If it is currently off, it is turned on.
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.SchreiberDominik.Hall4913.OnHallSensorEvent(Gadgeteer.Modules.SchreiberDominik.Hall4913,Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorState)">
+            <summary>
+            Raises the <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.MagnetDetectionLost"/> or <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.MagnetDetected"/> event.
+            </summary>
+            <param name="sender">The <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> that raised the event.</param>
+            <param name="Hall4913">The state of the hall sensor.</param>
+        </member>
+        <member name="P:Gadgeteer.Modules.SchreiberDominik.Hall4913.IsDetected">
+            <summary>
+            Gets a value that indicates whether the state of this hall sensor is detected.
+            </summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.SchreiberDominik.Hall4913.IsLedOn">
+            <summary>
+            Gets a boolean value that indicates whether the module's LED is currently lit (true = lit, false = off).
+            </summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.SchreiberDominik.Hall4913.LEDMode">
+            <summary>
+            Gets or sets the LED's current mode of operation.
+            </summary>
+        </member>
+        <member name="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.MagnetDetectionLost">
+            <summary>
+            Raised when the state of <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> is NoDetection.
+            </summary>
+            <remarks>
+            Implement this event handler and the <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.MagnetDetected"/> event handler
+            when you want to provide an action associated with hall sensor activity.
+            The state of the Hall4913 is passed to the <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorEventHandler"/> delegate,
+            so you can use the same event handler for both hall sensor states.
+            </remarks>
+        </member>
+        <member name="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.MagnetDetected">
+            <summary>
+            Raised when the state of <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> is Detected.
+            </summary>
+            <remarks>
+            Implement this event handler and the <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.MagnetDetectionLost"/> event handler
+            when you want to provide an action associated with hall sensor activity.
+            Since the state of the hall sensor is passed to the <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorEventHandler"/> delegate,
+            you can use the same event handler for both hall sensor states.
+            </remarks>
+        </member>
+        <member name="T:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorState">
+            <summary>
+            Represents the state of the <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> object.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorState.Detected">
+            <summary>
+            The state of hall sensor is Detected.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorState.NoDetection">
+            <summary>
+            The state of hall sensor is NoDetection.
+            </summary>
+        </member>
+        <member name="T:Gadgeteer.Modules.SchreiberDominik.Hall4913.LEDModes">
+            <summary>
+            Enuerates the various modes a LED can be set to.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.LEDModes.On">
+            <summary>
+            The LED is on regardless of the Hall sensor state.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.LEDModes.Off">
+            <summary>
+            The LED is off regardless of the hall sensor state.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.LEDModes.ToggleWhenDetected">
+            <summary>
+            The LED changes state whenever a magnet is detected.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.LEDModes.ToggleWhenDetectionLost">
+            <summary>
+            The LED changes state whenever magnet detection lost.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.LEDModes.OnWhileDetected">
+            <summary>
+             The LED is on while a magnet is detected.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.LEDModes.OnWhileNoDetection">
+            <summary>
+            The LED is on while no magnet is detected.
+            </summary>
+        </member>
+        <member name="T:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorEventHandler">
+            <summary>
+            Represents the delegate that is used to handle the <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.MagnetDetectionLost"/>
+            and <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.MagnetDetected"/> events.
+            </summary>
+            <param name="sender">The <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> object that raised the event.</param>
+            <param name="state">The state of the Hall4913</param>
+        </member>
+    </members>
+</doc>

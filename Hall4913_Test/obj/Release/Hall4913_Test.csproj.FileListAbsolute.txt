@@ -1,0 +1,204 @@
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.exe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.exe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.pdb
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.pdb
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\Hall4913_Test.exe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\Hall4913_Test.pdb
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\Gadgeteer.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\GTM.SchreiberDominik.Hall4913.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\GHI.OSHW.Hardware.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\Gadgeteer.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\GTM.SchreiberDominik.Hall4913.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\GHI.OSHW.Hardware.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\Gadgeteer.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\GTM.SchreiberDominik.Hall4913.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\GHI.OSHW.Hardware.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\Gadgeteer.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\GTM.SchreiberDominik.Hall4913.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\GHI.OSHW.Hardware.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\Gadgeteer.dll
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerbuinoBee.dll
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GHI.OSHW.Hardware.dll
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.pdb
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.xml
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\Gadgeteer.pdb
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\Gadgeteer.xml
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pdb
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerbuinoBee.xml
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GHI.OSHW.Hardware.xml
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.Resources.resources
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\GenerateResource.read.1.tlog
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\GenerateResource.write.1.tlog
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.Resources.tinyresources
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\TinyResGen.cache
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.exe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.pdb
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\GTM.GHIElectronics.Button.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\GTM.GHIElectronics.Button.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GTM.GHIElectronics.Button.dll
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GTM.GHIElectronics.Button.pdb
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GTM.GHIElectronics.Button.xml
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.dll
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\be\Hall4913_Test.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\be\Hall4913_Test.pdbx
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\le\Hall4913_Test.pe
+C:\Users\dschreib\Documents\Visual Studio 2010\Projects\Hall4913\Hall4913_Test\obj\Release\le\Hall4913_Test.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.exe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.exe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.pdb
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.pdb
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\Hall4913_Test.exe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\Hall4913_Test.pdb
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\LE\Gadgeteer.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\LE\GHIElectronics.Gadgeteer.FEZCerberus.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\LE\GTM.SchreiberDominik.Hall4913.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\LE\GHI.OSHW.Hardware.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\BE\Gadgeteer.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\BE\GHIElectronics.Gadgeteer.FEZCerberus.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\BE\GTM.SchreiberDominik.Hall4913.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\BE\GHI.OSHW.Hardware.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\LE\Gadgeteer.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\LE\GHIElectronics.Gadgeteer.FEZCerberus.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\LE\GTM.SchreiberDominik.Hall4913.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\LE\GHI.OSHW.Hardware.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\BE\Gadgeteer.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\BE\GHIElectronics.Gadgeteer.FEZCerberus.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\BE\GTM.SchreiberDominik.Hall4913.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\BE\GHI.OSHW.Hardware.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\Gadgeteer.dll
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerberus.dll
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.dll
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\GHI.OSHW.Hardware.dll
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.pdb
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.xml
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\Gadgeteer.pdb
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\Gadgeteer.xml
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerberus.pdb
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerberus.xml
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\bin\Release\GHI.OSHW.Hardware.xml
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.csprojResolveAssemblyReference.cache
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.Resources.resources
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.csproj.GenerateResource.Cache
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.Resources.tinyresources
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\TinyResGen.cache
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\be\Hall4913_Test.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\be\Hall4913_Test.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\le\Hall4913_Test.pe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\le\Hall4913_Test.pdbx
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.exe
+C:\Users\Domii\Desktop\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.exe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.exe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\Hall4913_Test.exe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\Hall4913_Test.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\le\Hall4913_Test.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\be\Hall4913_Test.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\LE\Gadgeteer.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\LE\GHIElectronics.Gadgeteer.FEZCerberus.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\LE\GTM.SchreiberDominik.Hall4913.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\LE\GHI.OSHW.Hardware.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\BE\Gadgeteer.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\BE\GHIElectronics.Gadgeteer.FEZCerberus.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\BE\GTM.SchreiberDominik.Hall4913.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\BE\GHI.OSHW.Hardware.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\LE\Gadgeteer.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\LE\GHIElectronics.Gadgeteer.FEZCerberus.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\LE\GTM.SchreiberDominik.Hall4913.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\LE\GHI.OSHW.Hardware.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\BE\Gadgeteer.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\BE\GHIElectronics.Gadgeteer.FEZCerberus.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\BE\GTM.SchreiberDominik.Hall4913.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\BE\GHI.OSHW.Hardware.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\Gadgeteer.dll
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerberus.dll
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.dll
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\GHI.OSHW.Hardware.dll
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.xml
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\Gadgeteer.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\Gadgeteer.xml
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerberus.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerberus.xml
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\bin\Release\GHI.OSHW.Hardware.xml
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.csprojResolveAssemblyReference.cache
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.Resources.resources
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.csproj.GenerateResource.Cache
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.Resources.tinyresources
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\TinyResGen.cache
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\be\Hall4913_Test.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\be\Hall4913_Test.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\le\Hall4913_Test.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\le\Hall4913_Test.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.exe
+C:\Users\Domii\CloudStation\Software\Hall4913\Hall4913_Test\obj\Release\Hall4913_Test.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\le\Hall4913_Test.exe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\be\Hall4913_Test.exe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\le\Hall4913_Test.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\be\Hall4913_Test.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\Hall4913_Test.exe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\Hall4913_Test.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\le\Hall4913_Test.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\le\Hall4913_Test.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\be\Hall4913_Test.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\be\Hall4913_Test.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\LE\Gadgeteer.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\LE\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\LE\GTM.SchreiberDominik.Hall4913.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\LE\GHI.OSHW.Hardware.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\BE\Gadgeteer.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\BE\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\BE\GTM.SchreiberDominik.Hall4913.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\BE\GHI.OSHW.Hardware.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\LE\Gadgeteer.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\LE\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\LE\GTM.SchreiberDominik.Hall4913.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\LE\GHI.OSHW.Hardware.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\BE\Gadgeteer.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\BE\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\BE\GTM.SchreiberDominik.Hall4913.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\BE\GHI.OSHW.Hardware.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\Gadgeteer.dll
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerbuinoBee.dll
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.dll
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\GHI.OSHW.Hardware.dll
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\GTM.SchreiberDominik.Hall4913.xml
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\Gadgeteer.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\Gadgeteer.xml
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerbuinoBee.pdb
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\GHIElectronics.Gadgeteer.FEZCerbuinoBee.xml
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\bin\Release\GHI.OSHW.Hardware.xml
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\Hall4913_Test.csprojResolveAssemblyReference.cache
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\TinyCLR_DebugReferences.cache
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\Hall4913_Test.Resources.resources
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\Hall4913_Test.csproj.GenerateResource.Cache
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\Hall4913_Test.Resources.tinyresources
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\TinyResGen.cache
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\be\Hall4913_Test.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\be\Hall4913_Test.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\le\Hall4913_Test.pe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\le\Hall4913_Test.pdbx
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\Hall4913_Test.exe
+C:\Users\Domii\CloudStation\Software\Hall4913\V1.1\Hall4913_Test\obj\Release\Hall4913_Test.pdb

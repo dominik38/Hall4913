@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.SchreiberDominik.Display5110</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.SchreiberDominik.Display5110">
+            <summary>
+            A Display5110 module for Microsoft .NET Gadgeteer
+            </summary>
+        </member>
+    </members>
+</doc>

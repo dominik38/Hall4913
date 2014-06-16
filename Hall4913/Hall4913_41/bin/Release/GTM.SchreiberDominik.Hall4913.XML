@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.SchreiberDominik.Hall4913</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.SchreiberDominik.Hall4913">
+            <summary>
+            A Hall4913 module for Microsoft .NET Gadgeteer
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.SchreiberDominik.Hall4913.#ctor(System.Int32)">
+            <summary></summary>
+            <param name="socketNumber">The mainboard socket that has the module plugged into it.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.SchreiberDominik.Hall4913.OnHallSensorEvent(Gadgeteer.Modules.SchreiberDominik.Hall4913,Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorState)">
+            <summary>
+            Raises the <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.DetectionLost"/> or <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.Detected"/> event.
+            </summary>
+            <param name="sender">The <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> that raised the event.</param>
+            <param name="hallSensorState">The state of the hall sensor.</param>
+        </member>
+        <member name="P:Gadgeteer.Modules.SchreiberDominik.Hall4913.IsDetected">
+            <summary>
+            Gets a value that indicates whether the state of the hall sensor is Detected.
+            </summary>
+        </member>
+        <member name="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.DetectionLost">
+            <summary>
+            Raised when the state of <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> is NotDetected.
+            </summary>
+            <remarks>
+            Implement this event handler and the <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.Detected"/> event handler
+            when you want to provide an action associated with hall sensor activity.
+            The state of the hall sensor is passed to the <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorEventHandler"/> delegate,
+            so you can use the same event handler for both sensor states.
+            </remarks>
+        </member>
+        <member name="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.Detected">
+            <summary>
+            Raised when the state of <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> is Detected.
+            </summary>
+            <remarks>
+            Implement this event handler and the <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.DetectionLost"/> event handler
+            when you want to provide an action associated with hall sensor activity.
+            Since the state of the hall sensor is passed to the <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorEventHandler"/> delegate,
+            you can use the same event handler for both sensor states.
+            </remarks>
+        </member>
+        <member name="T:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorState">
+            <summary>
+            Represents the state of the <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> object.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorState.Detected">
+            <summary>
+            The state of hall sensor is Detected.
+            </summary>
+        </member>
+        <member name="F:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorState.NotDetected">
+            <summary>
+            The state of hall sensor is NotDetected.
+            </summary>
+        </member>
+        <member name="T:Gadgeteer.Modules.SchreiberDominik.Hall4913.HallSensorEventHandler">
+            <summary>
+            Represents the delegate that is used to handle the <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.DetectionLost"/>
+            and <see cref="E:Gadgeteer.Modules.SchreiberDominik.Hall4913.Detected"/> events.
+            </summary>
+            <param name="sender">The <see cref="T:Gadgeteer.Modules.SchreiberDominik.Hall4913"/> object that raised the event.</param>
+            <param name="state">The state of the detection</param>
+        </member>
+    </members>
+</doc>
